@@ -1,5 +1,5 @@
 [project]
-name = "biocommons.example"
+name = "biocommons.foobar"
 authors = [
   { name="biocommons contributors", email="biocommons-dev@googlegroups.com" },
 ]
@@ -42,11 +42,11 @@ docs = [
 ]
 
 [project.scripts]
-marvin-quote = "biocommons.example.__main__:main"
+marvin-quote = "biocommons.foobar.__main__:main"
 
 [project.urls]
-"Homepage" = "https://github.com/biocommons/biocommons.example"
-"Bug Tracker" = "https://github.com/biocommons/biocommons.example/issues"
+"Homepage" = "https://github.com/biocommons/biocommons.foobar"
+"Bug Tracker" = "https://github.com/biocommons/biocommons.foobar/issues"
 
 
 [build-system]
@@ -99,7 +99,7 @@ markers = [
 
 [tool.coverage.run]
 branch = true
-source = ["biocommons.example"]
+source = ["biocommons.foobar"]
 omit = ["*_test.py", "*/test/*", "*/tests/*"]
 
 

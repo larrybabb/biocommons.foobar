@@ -1,4 +1,4 @@
-"""biocommons.example.__main__"""
+"""biocommons.foobar.__main__"""
 
 import logging
 import time

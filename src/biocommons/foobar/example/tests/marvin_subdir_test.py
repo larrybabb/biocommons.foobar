@@ -1,4 +1,4 @@
-"""biocommons.example test, within tests directory adjacent to source"""
+"""biocommons.foobar test, within tests directory adjacent to source"""
 
 from ..marvin import get_quote
 

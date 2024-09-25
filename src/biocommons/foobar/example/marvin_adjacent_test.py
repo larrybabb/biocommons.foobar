@@ -1,4 +1,4 @@
-"""biocommons.example test, adjacent to code"""
+"""biocommons.foobar test, adjacent to code"""
 
 from .marvin import get_quote
 
